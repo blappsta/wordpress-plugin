@@ -1,4 +1,3 @@
-## wordpress-plugin
 #Wordpress Plugin to support Blappsta Apps
 
 [Blappsta](www.blappsta.com) offers Apps based on Wordpress sites and blogs. 
