@@ -1,2 +1,2 @@
-# wordpress_plugin
+# wordpress-plugin
 Wordpress Plugin to support Blappsta Apps
