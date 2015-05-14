@@ -1,2 +1,5 @@
 # wordpress-plugin
 Wordpress Plugin to support Blappsta Apps
+
+Blappsta (www.blappsta.com) offers Apps based on Wordpress sites and blogs. Since Blappsta is avery powerfull App framework we cannot rely on RSS feeds only. We have created this repository in case you like to participate in adding features to the plugin.
+We will grant contributors free of charge usage of Blappsta based on the level of contribution.
